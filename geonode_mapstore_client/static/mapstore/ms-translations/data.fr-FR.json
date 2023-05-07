@@ -11,7 +11,7 @@
         "about_p0-1": "et",
         "about_p1": "MapStore a plusieurs exemples d'applications:",
         "about_ul0_li0": "MapViewer est un visualiseur simple de cartes préconfigurées (contenues optionnellement dans une base de données GeoStore)",
-        "about_ul0_li1": "MapPublisher a été développé pour créer, sauver et partager de façon simple et intuitive cartes et assemblages créés à partir des contenus de serveurs tel que OpenStreetMap, Google Maps, MapQuest ou tout autre serveur spécifique fourni par votre organisation ou une organisation tierce. Pour plus d'informations: ",
+        "about_ul0_li1": "MapPublisher a été développé pour créer, Enregistrer et partager de façon simple et intuitive cartes et assemblages créés à partir des contenus de serveurs tel que OpenStreetMap, Google Maps, MapQuest ou tout autre serveur spécifique fourni par votre organisation ou une organisation tierce. Pour plus d'informations: ",
         "about_h20": "Licence",
         "about_p3": "MapStore est un logiciel libre à code source ouverte, basé sur OpenLayers, Leaflet et ReactJS, et est disponible sous la licence \"Simplified BSD License\".",
         "about_p5-0": "Pour plus d'informations, consultez",
@@ -406,8 +406,8 @@
             "description": "Description",
             "namePlaceholder": "Nom de la carte",
             "descriptionPlaceholder": "Description de la carte",
-            "saveTitle": "Sauver la carte",
-            "saveText": "Sauver la carte courante ?",
+            "saveTitle": "Enregistrer la carte",
+            "saveText": "Enregistrer la carte courante ?",
             "thumbnail": "Vignette",
             "mapDelete": "Supprimer la carte",
             "message": "Déposez ou cliquez pour importer une image",
@@ -741,7 +741,7 @@
             "addbtn": "Ajouter",
             "nextbtn": "Suivant",
             "prevbtn": "Précédent",
-            "savebtn": "Sauver / Mettre à jour",
+            "savebtn": "Enregistrer / Mettre à jour",
             "cancelbtn": "Annuler",
             "confirmremove": "Effacer ?",
             "cancelconfirm": "Êtes-vous sûr ?",
@@ -903,7 +903,7 @@
                     "actions": {
                         "save": {
                             "title": "Sauvegarder les modifications.",
-                            "text": "Sauver"
+                            "text": "Enregistrer"
                         },
                         "cancel": {
                             "title": "Annuler l'édition, rejeter toutes les modifications.",
@@ -1038,8 +1038,8 @@
                     "details_bbox_label": "Editer les coordonnées pour modifier la surface",
                     "details_circle_label": "Editer les attributs pour modifier le rayon et le centre du cercle",
                     "reset_bbox": "Recommencer",
-                    "save_bbox": "Sauver les modifications",
-                    "save_radius": "Sauver les modifications",
+                    "save_bbox": "Enregistrer les modifications",
+                    "save_radius": "Enregistrer les modifications",
                     "radius": "Rayon ({unit})"
                 },
                 "methods": {
@@ -1072,7 +1072,7 @@
                 }
             },
             "changedFilter": "Filtre modifié",
-            "changedFilterAlert": "Il y a des modifications non enregistrées. Voulez-vous les sauver ?",
+            "changedFilterAlert": "Il y a des modifications non enregistrées. Voulez-vous les Enregistrer ?",
             "resetFilter": "Supprimer le filtre",
             "confirmReset": "Confirmer",
             "loadingError": "Le filtre actuel a posé un problème de rendu pour la couche sur la carte. Vérifiez la configuration de la couche sur le serveur ou corrigez le filtre.",
@@ -1217,7 +1217,7 @@
             "enabled": "Activée",
             "groupTitle": "Groupes:",
             "roleTitle": "Rôle",
-            "saveUser": "Sauver",
+            "saveUser": "Enregistrer",
             "savingUser": "sauvetage...",
             "userSaved": "Sauvé!",
             "createUser": "Créer",
@@ -1245,7 +1245,7 @@
             "noDescriptionAvailable": "(Pas de description)",
             "groupName": "Nom de groupe",
             "groupDescription": "Description",
-            "saveGroup": "Sauver",
+            "saveGroup": "Enregistrer",
             "createGroup": "Créer",
             "creatingGroup": "Création...",
             "groupMembers": "Membres:",
@@ -1306,8 +1306,8 @@
         },
         "snapshot": {
             "title": "Prévisualisation de la capture de la carte",
-            "save": "Sauver",
-            "tooltip": "Sauver une capture de la carte.",
+            "save": "Enregistrer",
+            "tooltip": "Enregistrer une capture de la carte.",
             "googleBingError": "les couches Google et Bing ne sont pas disponibles à la capture d'image pour des raisons de droits.",
             "downloadingSnapshots": "en attente de la génération de l'image",
             "date": "Date",
